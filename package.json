@@ -1,0 +1,31 @@
+{
+  "name": "chili-zh-en",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/no-chili/-zh-en.git"
+  },
+  "keywords": [
+    "翻译",
+    "中文",
+    "英文",
+    "line"
+  ],
+  "author": "no-chili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/no-chili/-zh-en/issues"
+  },
+  "homepage": "https://github.com/no-chili/-zh-en#readme",
+  "bin": {
+    "s": "index.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
